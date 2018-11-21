@@ -1,1 +1,1 @@
-# TestJava
+Project for trying out maven
